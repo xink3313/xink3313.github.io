@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_themes: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Xing Mingxuan's websites
+description: none
